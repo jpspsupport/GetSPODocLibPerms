@@ -31,7 +31,7 @@ Only the folder or files with unique permission scope will are returned.
 
 -siteurl ... The target SPO site
 
--listTitle ... Document Library Title to get the permission list. 
+-listName ... Document Library Title to get the permission list. 
 
 -username ... (OPTIONAL) The target user to upload the file.
 
